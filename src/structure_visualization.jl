@@ -8,3 +8,4 @@ begin downloadpdb("6W7T") do fp
 		viewpdb("6W7T")
 	end
 end
+
